@@ -5,6 +5,8 @@
 3. Install dependencies - $npm install
 4. $npm start - will launch the application
 
+Bug alert!
+
 If the application fails to compile and displays the error,
 
 ![Alt text](bug.gif?raw=true "Bug")
