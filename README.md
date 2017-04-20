@@ -33,6 +33,8 @@ Again I've made a basic assumption that the more frequent the word is used the h
 
 In hindsight the ranking should factor in correlations between associative words.
 
+Further a distinction should be made between the types of words. For example some words are names of people, places, some describe actions or emotions. This should be factored into the rankings.
+
 As you can see clicking on an article will reveal the summary on the left of the display, so the user avoids navigating away from the current page.
 
 ![Alt text](browse.gif?raw=true "Browse")
